@@ -9,8 +9,6 @@ The project compares test results (`Before` vs `After`) based on three key valid
 - **Memory Usage (MB)** — tracks how much GPU memory is consumed  
 - **Temperature (°C)** — monitors GPU heat behavior  
 
-It demonstrates analytical thinking, regression identification, and data summarization — all key skills for validation and data analysis roles.
-
 ---
 
 ## 🧠 Objective
